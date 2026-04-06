@@ -1,11 +1,11 @@
 ---
-title: Lab Scale Link Testing
+title: Live Link Testing
 parent: Work Area
 nav_order: 6
 permalink: /Test/
 ---
 
-**Lab Scale Link Testing**
+**Live Link Testing**
 
 **Live Over-The-Air Link Testing**  
 As a final test to ensure that the Ku downlink is fully functional across both Space and Ground segments, an end to end transmission test was conducted, with the expected attenuations from a space to ground link. An MPEG Transport stream would be encoded over DVBS2, and sent via the Ku band link at designed frequency and power to the ground station segment, where the data would be recovered. To simulate link conditions at orbital altitudes, attenuators will be inserted into the RF chain after amplification of the transmission signal by the HPA. This attenuation must be calculated to match the difference in the actual free space attenuation due to the test distance, and the expected attenuation during actual space to ground transmission.  
