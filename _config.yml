@@ -1,8 +1,8 @@
-title: ASI-407 Interim Report 
-description: This is the Interim Report for the ASI-407 Galassia-5 Ground Station Subteam for CDE4301 (2026).
+title: ASI-407 Final Report 
+description: This is the Final Report for the ASI-407 Galassia-5 Ground Station Subteam for CDE4301 (2026).
 theme: just-the-docs
-baseurl: "/cde4301-interim-report"
-url: "https://github.com/wendahere/GS5"
+baseurl: "/cde4301-final-report"
+url: "https://github.com/wendahere/GS5_Final"
 repository: wendahere/GS5
 
 color_scheme: light
