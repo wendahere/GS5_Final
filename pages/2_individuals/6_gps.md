@@ -18,6 +18,7 @@ This section builds upon the previously developed GPS subsystem by evaluating he
 ### **2\. System Overview**
 
 A dual-antenna GNSS configuration was implemented to enable direct heading computation using relative positioning (UBX NAV-RELPOSNED). Detailed system architecture is provided in the Interim Report.
+Code is under appendix N.
 
 ### **3\. Heading Accuracy Principle**
 
