@@ -1,7 +1,7 @@
 ---
 title: "Appendix Q: Updated Link Budget"
 parent: Appendices
-nav_order: 2
+nav_order: 11
 permalink: /CONOPS/
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Appendix N: GNSS Satellite Monitoring Code (ZED-F9P)"
 parent: Appendices
-nav_order: 2
+nav_order: 8
 permalink: /GPS2/
 
 ---
