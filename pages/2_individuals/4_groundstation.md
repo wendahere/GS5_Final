@@ -12,6 +12,9 @@ To avoid duplication, detailed background information on the gimbal hardware int
 
 The gimbal control system has been previously integrated with the tracking software, enabling smooth and continuous motion for satellite tracking. Preliminary testing demonstrated stable operation and reliable positioning performance.
 
+Video of Gimbal Demo: https://www.youtube.com/watch?v=JRI7pS-pcow
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JRI7pS-pcow/0.jpg)](https://www.youtube.com/watch?v=JRI7pS-pcow)
+
 ## **Objective**
 
 To integrate the custom-made 1 m satellite dish with the Newmark Systems NSC-G CD v1.7 gimbal, ensuring sufficient load capacity, structural stability, and reliable tracking performance.
