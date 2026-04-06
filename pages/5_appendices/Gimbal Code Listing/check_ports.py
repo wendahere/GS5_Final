@@ -6,7 +6,7 @@ ports = list(list_ports.comports())
 for p in ports:
     print(f" - {p.device} | {p.description}")
 
-target = "COM5"  # change if needed
+target = "COM6"  # change if needed
 candidates = [target, r"\\.\\" + target]  # e.g. "COM6", "\\.\COM6"
 
 for name in candidates:
