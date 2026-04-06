@@ -1,7 +1,7 @@
 ---
 title: Gimbal Hardware Integration
 parent: Work Area
-nav_order: 3
+nav_order: 1
 permalink: /Ground_Station/
 ---
 

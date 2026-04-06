@@ -1,7 +1,7 @@
 ---
 title: Gimbal Software Interface
 parent: Work Area
-nav_order: 5
+nav_order: 2
 permalink: /gimble/
 ---
 

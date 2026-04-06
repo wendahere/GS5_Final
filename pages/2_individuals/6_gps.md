@@ -1,7 +1,7 @@
 ---
 title: Global Positioning System 
 parent: Work Area
-nav_order: 6
+nav_order: 9
 permalink: /GPS/
 ---
 

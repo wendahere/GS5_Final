@@ -1,7 +1,7 @@
 ---
 title: Thermal Management of High Power Actuator (HPA)
 parent: Work Area
-nav_order: 6
+nav_order: 8
 permalink: /HPA/
 ---
 

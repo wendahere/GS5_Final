@@ -1,7 +1,7 @@
 ---
 title: RF Payload Test and Assembly
 parent: Work Area
-nav_order: 1
+nav_order: 3
 permalink: /subsystem/
 
 ---

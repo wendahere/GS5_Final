@@ -1,7 +1,7 @@
 ---
 title: Payload Datalink Subsystem Architecture
 parent: Work Area
-nav_order: 2
+nav_order: 4
 permalink: /upconverter/
 
 ---
