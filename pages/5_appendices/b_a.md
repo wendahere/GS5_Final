@@ -1,5 +1,5 @@
 ---
-title: "Appendix F - gclib.py"
+title: "Appendix F: - gclib.py"
 parent: Appendices
 nav_order: 6
 permalink: /appendix-ba/

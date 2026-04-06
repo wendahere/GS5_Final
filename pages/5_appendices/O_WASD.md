@@ -1,7 +1,7 @@
 ---
 title: "Appendix O: “W, A, S, D” Control Script & Operational Sequence"
 parent: Appendices
-nav_order: 11
+nav_order: 15
 permalink: /WASD/
 
 ---

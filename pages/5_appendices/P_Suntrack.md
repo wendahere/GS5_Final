@@ -1,7 +1,7 @@
 ---
 title: "Appendix P Sun Tracking Script & Operational Sequence"
 parent: Appendices
-nav_order: 12
+nav_order: 16
 permalink: /Suntrack/
 
 ---

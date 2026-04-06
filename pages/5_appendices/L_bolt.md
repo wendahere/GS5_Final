@@ -1,7 +1,7 @@
 ---
-title: "Appendix L: Data Transfer Calculations"
+title: "Appendix L: BOLT LOAD AND MOTOR TORQUE CALCULATIONS"
 parent: Appendices
-nav_order: 8
+nav_order: 12
 permalink: /appenL/
 
 ---
