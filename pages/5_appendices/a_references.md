@@ -29,3 +29,5 @@ permalink: /references/
 **\[20\]** [Antesky, “Brief Introduction of Satellite Communication System,”.](https://antesky.com/brief-introduction-of-satellite-communication-system/#:~:text=The%20feed%20device%20is%20connected,the%20role%20of%20transmitting%20energy)  
 **\[21\]** [Innovative Composite Engineering, “What Is Carbon Fiber?,”.](https://www.innovativecomposite.com/what-is-carbon-fiber/#:~:text=How%20is%20Carbon%20Fiber%20Made,treating%20the%20surface%20and%20sizing.)  
 **\[22\]** [RadarTutorial, “Horn Antennas,”.](https://www.radartutorial.eu/03.linetheory/Horn.en.html)
+**\[23\] [GoEngineer, “Thermal Study Setup in SOLIDWORKS Simulation,” GoEngineer Blog, 2021\.](https://www.goengineer.com/blog/thermal-study-setup-solidworks-simulation)**  
+**\[24\] [SEACAD Technologies, “SOLIDWORKS Simulation Professional: Frequency Analysis of Parts with Support,” SEACAD Blog, 2024\.](https://seacadtech.com/blog/solidworks-simulation-professional-frequency-analysis-of-parts-with-support/)**
