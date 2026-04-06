@@ -1,11 +1,11 @@
 ---
-title: Thermal Management of High Power Actuator (HPA)
+title: Thermal Management of High Power Amplifier (HPA)
 parent: Work Area
 nav_order: 8
 permalink: /HPA/
 ---
 
-**Thermal Management of High Power Actuator (HPA)**
+**Thermal Management of High Power Amplifier (HPA)**
 
 # 1\. Design Objective
 
