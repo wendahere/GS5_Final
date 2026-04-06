@@ -1,7 +1,7 @@
 ---
 title: "Appendix M: Torque and Bolt Capacity Calculations"
 parent: Appendices
-nav_order: 7
+nav_order: 9
 permalink: /M/
 
 ---
